@@ -22,10 +22,10 @@ Currently in the **problem definition and data cleaning** stage. More updates co
 
 ## 📁 Files
 
-- `ESG_dataset.xlsx` – Source file for analysis
-- `notes/` – Early project notes and drafts
+- `TDI SAPPHIRE EXCEL CAPSTONE PROJECT DATA` – Source file for analysis
+- `PROBLEM STATEMENT DOCUMENT/` – Early project notes and documents
 
 ---
 
 Stay tuned as the project progresses.  
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/yourusername) too!
+Let’s connect on [LinkedIn](www.linkedin.com/in/felicitas-ezechikeluba) too!
