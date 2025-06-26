@@ -23,7 +23,6 @@ Currently in the **problem definition and data cleaning** stage. More updates co
 ## 📁 Files
 
 - `TDI SAPPHIRE EXCEL CAPSTONE PROJECT DATA` – Source file for analysis
-- `PROBLEM STATEMENT DOCUMENT/` – Early project notes and documents
 
 ---
 
