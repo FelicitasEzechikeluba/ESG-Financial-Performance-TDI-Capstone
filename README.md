@@ -13,17 +13,17 @@ This is part of my TDI Internship Capstone Project focused on analyzing the rela
 
 ## 📌 Status
 
-Currently in the **problem definition and data cleaning** stage. More updates coming soon!
+Tidying up the project Documentation
 
 ## 🧠 Key Questions
 
 - Does a higher ESG score predict stronger financial returns?
-- What patterns emerge across sectors or regions?
+- What patterns emerge across Industries or regions?
 
 ## 📁 Files
 
 - `TDI SAPPHIRE EXCEL CAPSTONE PROJECT DATA` – Source file for analysis
-
+- `ESG financial Dataset Dictionary.csv` - Dataset Dictionary
 ---
 
 Stay tuned as the project progresses.  
