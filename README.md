@@ -24,10 +24,12 @@ This is part of my TDI Internship Capstone Project focused on analyzing the rela
 
 ## 📁 Files
 
+* `TDI-SAPPHIRE-EXCEL-CAPSTONE-PROJECT-BRIEF.pdf` - Project Brief
 * `TDI SAPPHIRE EXCEL CAPSTONE PROJECT DATA` – Source file for analysis
 * `ESG financial Dataset Dictionary.csv` – Dataset Dictionary
+* `TDI SAPPHIRE EXCEL CAPSTONE PROJECT DATA Original Analysis.xlsx` - Analysed Data
 * `ESG-Financial Project Documentation.docx` – Project Documentation
-* `TDI-SAPPHIRE-EXCEL-CAPSTONE-PROJECT-BRIEF.pdf` - Project Brief
+  
 
 ---
 
