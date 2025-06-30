@@ -26,7 +26,8 @@ This is part of my TDI Internship Capstone Project focused on analyzing the rela
 
 * `TDI SAPPHIRE EXCEL CAPSTONE PROJECT DATA` – Source file for analysis
 * `ESG financial Dataset Dictionary.csv` – Dataset Dictionary
-* `ESG-Financial Project Documentation` – Project Documentation
+* `ESG-Financial Project Documentation.docx` – Project Documentation
+* `TDI-SAPPHIRE-EXCEL-CAPSTONE-PROJECT-BRIEF.pdf` - Project Brief
 
 ---
 
