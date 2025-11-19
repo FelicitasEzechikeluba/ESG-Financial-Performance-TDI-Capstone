@@ -1,5 +1,5 @@
 
-# ESG-Financial-Performance-TDI-Capstone
+# ESG-Financial Performance-TDI Excel Capstone
 
 Capstone project analyzing the relationship between ESG scores and financial performance. Part of TDI Internship Program
 
